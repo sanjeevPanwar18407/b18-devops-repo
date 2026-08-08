@@ -1,7 +1,0 @@
-
-variable "vms" {
-  
-}
-variable "nic" {
-  
-}
